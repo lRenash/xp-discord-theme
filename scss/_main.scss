@@ -7,6 +7,10 @@
 @use "main/threads";
 @use "main/titlebar";
 
+// START Edits by Myth7x
+@use "main/messages";
+// END Edits by Myth7x
+
 // Avatar sphere effect
 .wrapper-1VLyxH::before {
     content: "";
