@@ -1,16 +1,15 @@
 /**
- * @name Exponent
- * @author Saltssaumure
- * @authorLink https://github.com/Saltssaumure
+ * @name Exponent - edited by Myth7x
+ * @author Myth7x
+ * @authorLink https://github.com/Myth7x
  * @description A Windows XP style theme built for BetterDiscord.
- * @version 1.3
- * @invite uy8nKQVatp
- * @source https://github.com/Saltssaumure/xp-discord-theme
+ * @version 1.4
+ * @source https://github.com/Myth7x/xp-discord-theme
  * @donate https://ko-fi.com/saltssaumure
 */
 
 /*
-                                                Made by:
+                                            Original made by:
  _______  _______  _    _________ _______  _______  _______           __   __           _______  _______
 (  ____ \(  ___  )( \   \__   __/(  ____ \(  ____ \(  ___  )|\     /|(  \ /  )|\     /|(  ____ )(  ____ \
 | (____\/| (___) || |      | |   | (____\/| (____\/| (___) || |   | || || || || |   | || (____)|| (__  \/
@@ -24,7 +23,7 @@ GitHub: https://github.com/Saltssaumure/xp-discord-theme
 Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
 */
 
-@import url("https://saltssaumure.github.io/xp-discord-theme/xp.min.css");
+@import url("https://myth7x.github.io/xp-discord-theme/xp.min.css");
 
 :root
 {

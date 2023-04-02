@@ -1,0 +1,10 @@
+// START Edits by Myth7x
+@use "../top/boxes" as box;
+
+#chat-messages {
+    background: var(--xp-bg-tint-color);
+    border-radius: 0;
+    @include box.windowHasPseudoTitle("Chat addition");
+    overflow: visible;
+}
+// END Edits by Myth7x
